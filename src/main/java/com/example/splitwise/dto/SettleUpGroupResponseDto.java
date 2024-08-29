@@ -1,2 +1,4 @@
-package com.example.splitwise.dto;public class SettleUpGroupResponseDto {
+package com.example.splitwise.dto;
+
+public class SettleUpGroupResponseDto {
 }

@@ -1,2 +1,6 @@
-package com.example.splitwise.models;public enum ExpenseUserType {
+package com.example.splitwise.models;
+
+public enum ExpenseUserType {
+    PAID_BY,
+    HAD_TO_PAY
 }

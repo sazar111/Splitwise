@@ -1,2 +1,6 @@
-package com.example.splitwise.models;public enum ExpenseType {
+package com.example.splitwise.models;
+
+public enum ExpenseType {
+    REAL,
+    DUMMMY
 }
