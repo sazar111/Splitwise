@@ -8,5 +8,5 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
 public interface ExpenseUserRepository extends JpaRepository<ExpenseUser,Long> {
-    List<ExpenseUser> findByUserId(User user);
+    List<ExpenseUser> findByUser(User user);
 }
